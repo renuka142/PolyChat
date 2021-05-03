@@ -11,4 +11,4 @@ An App that allows mutiple people to caht together simulatneously
 
 ## Live Demo
 
-https://polychat-app.herokuapp.com/
+[Link](https://polychat-app.herokuapp.com/)
